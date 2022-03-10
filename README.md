@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SPanchag
-- 👀 I’m interested in a lot of thinga
+- 👀 I’m interested in a lot of things
 - 🌱 I’m currently learning Mulesoft
 - 💞️ I’m looking to collaborate on Mulesoft
 - 📫 How to reach me sitaram.panchagnula@gmail.com
